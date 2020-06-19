@@ -1,6 +1,6 @@
-# Object_detection
+# pedestrian_detection
 
-Object Detection Using TensorFlow
+Pedestrian Detection Using TensorFlow
 
 Steps:
 1) Label pedestrian dataset from https://www.cis.upenn.edu/~jshi/ped_html/
