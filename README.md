@@ -1,4 +1,4 @@
-# pedestrian_detection
+# Pedestrian Detection
 
 Pedestrian Detection Using TensorFlow
 
