@@ -1,6 +1,6 @@
 # Pedestrian Detection
 
-Pedestrian Detection Using TensorFlow
+Pedestrian Detection using transfer learning with coco model
 
 Steps:
 1) Label pedestrian dataset from https://www.cis.upenn.edu/~jshi/ped_html/
